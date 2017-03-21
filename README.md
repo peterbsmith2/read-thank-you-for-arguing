@@ -8,8 +8,18 @@
 **1.** Open Your Eyes  
 
 #### OFFENSE  
+**2.** Set Your Goals
+**3.** [Control the Tense](chapter_3.md)
 **4.** [Soften Them Up](chapter_4.md)  
+**5.** Get Them to Like You  
+**6.** Make Them Listen  
+**7.** Use Your Craft  
+**8.** Show You Care  
 **9.** [Control the Mood](chapter_9.md)  
+**10.** Turn the Volume Down 
+**11.** Gain the High Ground  
+**12.** Persuade on Your Terms  
+**13.** Control the Argument
 
 #### DEFENSE  
 **17.** [Find the Sweet Spot](chapter_17.md)  
