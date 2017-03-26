@@ -1,5 +1,11 @@
-Salespeople love to use concession to sell you stuff. I once had a boss who came from a sales background. He proved  that old habits die hard. The guy never disagreed with me, yet half the time he got me to do the opposite of what I proposed.
-  
+# THANK YOU FOR ARGUING
+## WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE ART OF PERSUASION
+## JAY HEINRICHS
+
+### Soften Them Up
+
+> Salespeople love to use concession to sell you stuff. I once had a boss who came from a sales background. He proved  that old habits die hard. The guy never disagreed with me, yet half the time he got me to do the opposite of what I proposed.
+
 > Me: Our research shows that readers love beautiful covers without a lot of type.  
 Boss: Beautiful covers. Sure.  
 Me: I know that clean covers iolate the usual rules for selling magazines on the newsstand, but we should test dual covers: half of them will be crammed with the usual headlines, and half of them with a big, bold image--very little type.  
@@ -10,5 +16,5 @@ Me: Uh, no. But I tell you, boss, I'm pretty confident about this.
 Boss: Sure. I know you are. Well, it's a great idea. Let's circle back to it at budget time.  
 Me: But that's nine months from--  
 Boss: So what else is on your agenda?  
-  
-My covers never got tested. If a circle in hell is reserved for this kind of salesman, it's a pretty darn pleasant one. And despite myself, I never stopped liking the guy. Arguments with him never felt like arguments; I would leave his office in a good mood after losing every point, and he was the one who did all the conceding.
+
+> My covers never got tested. If a circle in hell is reserved for this kind of salesman, it's a pretty darn pleasant one. And despite myself, I never stopped liking the guy. Arguments with him never felt like arguments; I would leave his office in a good mood after losing every point, and he was the one who did all the conceding.
