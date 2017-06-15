@@ -16,7 +16,7 @@
 **7.** Use Your Craft  
 **8.** Show You Care  
 **9.** [Control the Mood](chapter_9.md)  
-**10.** Turn the Volume Down
+**10.** Turn the Volume Down  
 **11.** Gain the High Ground  
 **12.** Persuade on Your Terms  
 **13.** Control the Argument
@@ -26,9 +26,9 @@
 
 #### ADVANCED OFFENSE  
 **18.** Get Instant Cleverness  
-**19.** Speak Your Audience's Language  
+**19.** [Speak Your Audience's Language](chapter_19.md)  
 **20.** [Make Them Identify with Your Choice](chapter_20.md)  
 **21.** Lead Your Tribe  
-**22.** [Avoid Apologizing](chapter_22.md)
+**22.** [Avoid Apologizing](chapter_22.md)  
 **23.** Seize the Occasion  
 **24.** Use the Right Medium
