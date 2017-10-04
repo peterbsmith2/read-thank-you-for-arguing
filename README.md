@@ -32,3 +32,6 @@
 **22.** [Avoid Apologizing](chapter_22.md)  
 **23.** Seize the Occasion  
 **24.** Use the Right Medium
+
+### More
+[Figures of Speech](figures_of_speech.md)
