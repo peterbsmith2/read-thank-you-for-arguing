@@ -35,3 +35,4 @@
 
 ### More
 [Figures of Speech](figures_of_speech.md)
+[Pathos](pathos.md)
