@@ -5,5 +5,26 @@
 
 ### Figures of Speech 
 
+##### Self-Answering Question
+##### Metaphor
+It makes one thing stand for another ("The moon is a balloon.")
+
+##### Irony
+##### Synecdoche
+##### Metonymy
+##### Chiasmus in action
+##### Either/Or (dialysis)
+##### Antithesis
+##### Antistasis
+##### Correction Figure (epergesis)
+##### Yes-No Sentence (dialysis)
 ##### Litotes
 Ironic understatement. Makes you seem cooler than your opponent.
+
+##### Climax (anadiplosis)
+##### Verbing (anthimeria, neologisms)
+##### Metallage
+
+
+
+
