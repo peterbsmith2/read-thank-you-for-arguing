@@ -34,5 +34,5 @@
 **24.** Use the Right Medium
 
 ### More
-[Figures of Speech](figures_of_speech.md)
+[Figures of Speech](figures_of_speech.md)  
 [Pathos](pathos.md)
