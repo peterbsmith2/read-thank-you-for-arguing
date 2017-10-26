@@ -6,4 +6,4 @@
 #### Pathos
 
 ##### Passive Voice
-If you want to direct an audience's anger aaway from someone, imply that the action happened on its own: "the chair got broken," not "Pablo broke the chair." 
+If you want to direct an audience's anger away from someone, imply that the action happened on its own: "the chair got broken," not "Pablo broke the chair." 
