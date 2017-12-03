@@ -23,6 +23,7 @@
 
 #### DEFENSE  
 **14.** [Spot Fallacies](chapter_14.md)  
+**15.** [Call a Foul](chapter_15.md)
 **17.** [Find the Sweet Spot](chapter_17.md)  
 
 #### ADVANCED OFFENSE  
