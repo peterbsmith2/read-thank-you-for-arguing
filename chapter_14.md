@@ -33,5 +33,4 @@ You often see the same fallacy in reverse among unscientific types.
 > Believer: You think it can?  
 > Proper rhetorical reply: Never mind.  
 
-###### What Makes this a Sin
-Again, there's a disconnect between the proof and the choice. The examples -- or lack of them -- don't support the choice.  
+###### What Makes this a Sin: Again, there's a disconnect between the proof and the choice. The examples -- or lack of them -- don't support the choice.  
