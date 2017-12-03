@@ -22,6 +22,7 @@
 **13.** Control the Argument
 
 #### DEFENSE  
+**14.** [Spot Fallacies](chapter_14.md)  
 **17.** [Find the Sweet Spot](chapter_17.md)  
 
 #### ADVANCED OFFENSE  
