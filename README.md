@@ -8,7 +8,7 @@
 **1.** Open Your Eyes  
 
 #### OFFENSE  
-**2.** Set Your Goals  
+**2.** [Set Your Goals](chapter_02.md)  
 **3.** [Control the Tense](chapter_03.md)  
 **4.** [Soften Them Up](chapter_04.md)  
 **5.** Get Them to Like You  
