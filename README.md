@@ -35,6 +35,13 @@
 **23.** Seize the Occasion  
 **24.** Use the Right Medium
 
+#### ADVANCED AGREEMENT
+**26.** Give a Persuasive Talk  
+**27.** Capture Your Audience 
+**28.** Write a Persuasive Essay 
+**29.** Use the Right Tools  
+**30.** [Run An Agreeable Country](chapter_30.md) 
+
 ### More
 - [Figures of Speech](figures_of_speech.md)  
 - [Pathos](pathos.md)
